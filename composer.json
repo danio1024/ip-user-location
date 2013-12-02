@@ -1,5 +1,5 @@
 {
-    "name": "danio1024/IP-User-Location",
+    "name": "danio1024/ip-user-location",
     "description": "A basic PHP wrapper for integrating IP based user location detection into your application.",
     "type": "library",
     "keywords": [ "IP Location"],
